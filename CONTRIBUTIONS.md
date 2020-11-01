@@ -1,7 +1,7 @@
 # Sprints
 Contributions of following sprints:
 
-Sprint 1:
+##Sprint 1:
 
 Commenting of code. 
 Standup/decision protocol. 

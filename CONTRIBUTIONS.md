@@ -3,7 +3,9 @@ Contributions of following sprints:
 
 Sprint 1:
 
-Commenting of code. Standup/decision protocol. Implemented in account models.
+##Commenting of code. 
+##Standup/decision protocol. 
+##Implemented in account models.
 
 Sprint 2:
 
